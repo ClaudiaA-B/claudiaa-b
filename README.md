@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Claudia! 👋
 
-<!--
-**ClaudiaA-B/claudiaa-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring, detail-oriented **Junior Front-End Developer** focused on building responsive, structured, and visually engaging web experiences. I love bridging the gap between clean logic and organic, accessible layout design.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Languages:** HTML5, CSS3, JavaScript (ES6)
+* **Layout Techniques:** CSS Grid, Flexbox, Rotational Transforms, Transitions
+* **Version Control & Hosting:** Git, GitHub Desktop, GitHub Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* 📚 Currently leveling up my programming logic and frontend skills through **SheCodes Plus** and **Codecademy**.
+* 🎨 Just deployed an interactive, mobile-responsive curation project featuring a custom dark-mode toggle layout.
+* 💻 Actively building semantic, modern portfolio pieces to demonstrate production-ready code.
+
+### 💬 Let's Connect!
+* **🌱 Currently learning:** Advanced JavaScript (ES6), API integration, and live data deployment.
+* **💬 Ask me about:** Book recommendations—I maintain a personal library of nearly 1,000 volumes!
+* **⚡ Fun fact:** I love artisanal cooking and make my own homemade custard-based ice cream.
+
+---
+*“Continuous learning and clean structure are at the core of everything I build.”*
